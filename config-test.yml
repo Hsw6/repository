@@ -1,2 +1,2 @@
 config：
-  info: this is my congfig-test config. version 1
+  info: "this is my congfig-test config. version 1"
