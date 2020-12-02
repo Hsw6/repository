@@ -1,2 +1,2 @@
 config：
-  info: this is my config-dev file version 1;
+  info: "this is my config-dev file version 1"
