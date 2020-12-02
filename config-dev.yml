@@ -1,1 +1,3 @@
-"this is my config-dev file version 1"
+config:
+  info: "this is my config-dev file version 1"
+
